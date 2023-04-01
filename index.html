@@ -10,26 +10,26 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.2/angular.min.js"></script>
-    <title>Lunertic_'s Item List</title>
+    <title>La liste d'items de Leetram</title>
     <script type="text/javascript">
-        const itemListURL = "https://raw.githubusercontent.com/artaficialAI/Lunertic-item-list/master/StoreItems.json";
-        const eventListURL = "https://raw.githubusercontent.com/artaficialAI/Lunertic-item-list/master/StoreEvents.json";
+        const itemListURL = "https://raw.githubusercontent.com/Leetram519/Leetram-Item-List/main/StoreItems.json";
+        const eventListURL = "https://raw.githubusercontent.com/Leetram519/Leetram-Item-List/main/StoreEvents.json";
     </script>
 </head>
 
 <body>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">Lunertic_</a>
+        <a class="navbar-brand" href="#">Leetram</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#">Accueil <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.twitch.tv/Lunertic_">My Stream</a>
+                    <a class="nav-link" href="https://www.twitch.tv/Leetram_519">Mes Streams</a>
                 </li>
             </ul>
         </div>
@@ -38,20 +38,20 @@
         <div class="jumbotron">
             <div class="container">
                 <h1 class="display-3">TwitchToolkit</h1>
-                <p>TwitchToolkit is a mod written by Twitch.tv/hodlhodl that integrates storytelling decisions into chat votes, awards viewers coins for watching, and those coins can be spent on items/events in game.</p>
+                <p>TwitchToolkit est un mod créé par Twitch.tv/hodlhodl qui intègre l'intéraction entre Twitch et le jeu, en utilisant des points et un système de Karma..</p>
                 <ul class="list-group">
-                    <li class="list-group-item">!bal - check balance and karma rate</li>
-                    <li class="list-group-item">!buy - Syntax: !buy beer 6 - purchase an item or event</li>
-                    <li class="list-group-item">!whatiskarma - explains what the karma system is</li>
-                    <li class="list-group-item">!purchaselist - gives users a link to the public purchase list</li>
-                    <li class="list-group-item">!instructions - gives users info on using the mod</li>
-                    <li class="list-group-item">!modinfo - gives users info about the mod</li>
-                    <li class="list-group-item">!modsettings - gives user info on how many coins are being earned and global settings</li>
-                    <li class="list-group-item">!giftcoins - Syntax: !giftcoins @username 100 - give another viewer your coins</li>
-                    <li class="list-group-item">!toolkitcmds - shows all available commands to the user, this does not translate by default so it can be universally recognized.</li>
-                    <li class="list-group-item">!buy ticket - join the viewer name queue</li>
-                    <li class="list-group-item">!mypawnstory - view information about your pawns backstory</li>
-                    <li class="list-group-item">!mypawnskills - view information about your pawns skills</li>
+                    <li class="list-group-item">!bal - Regarde ton argent, et ton karma!</li>
+                    <li class="list-group-item">!buy - Syntax: !buy beer 6 - Achète un objet ou un event</li>
+                    <li class="list-group-item">!whatiskarma - Explique le système de Karma</li>
+                    <li class="list-group-item">!purchaselist - Renvoie la liste d'achats</li>
+                    <li class="list-group-item">!instructions - Donne des infos sur ce qu'il se passe.</li>
+                    <li class="list-group-item">!modinfo - Quel est ce mod ?</li>
+                    <li class="list-group-item">!modsettings - Renvoie mes paramètres de jeu</li>
+                    <li class="list-group-item">!giftcoins - Syntax: !giftcoins @pseudo 100 - Donne des pièces à un utilisateur!</li>
+                    <li class="list-group-item">!toolkitcmds - Montre toutes les commandes au joueur.</li>
+                    <li class="list-group-item">!buy ticket - Achète un ticket pour devenir un colon!</li>
+                    <li class="list-group-item">!mypawnstory - Regarde ta backstory en tant que colon.</li>
+                    <li class="list-group-item">!mypawnskills - Regarde tes skills de colon.</li>
                 </ul>
             </div>
         </div>
@@ -63,7 +63,7 @@
                             <form>
                                 <div class="form-group">
                                     <button class="btn btn-success" ng-class="{'active': (selected == '1')}" ng-click='selected=1'>
-                                        Items
+                                        Objets
                                     </button>
                                     <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
                                         Events
@@ -93,17 +93,17 @@
                             </div>
                             <p>
                                 <button type="button" class="btn btn-primary sort" data-sort="abr">
-                                    Sort
+                                    Trier
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="price">
-                                    Sort by Price
+                                    Trier par prix
                                 </button>
                             </p>
                             <table class="table items">
                                 <tr>
-                                    <th scope="col" class="sort" data-sort="abr">Name</th>
-                                    <th scope="col" class="sort" data-sort="price">Price</th>
-                                    <th scope="col" class="sort" data-sort="category">Category</th>
+                                    <th scope="col" class="sort" data-sort="abr">Nom</th>
+                                    <th scope="col" class="sort" data-sort="price">Prix</th>
+                                    <th scope="col" class="sort" data-sort="category">Catégorie</th>
                                 </tr>
                                 <tbody class="list">
                                 </tbody>
@@ -116,25 +116,25 @@
                         <div id="events">
                             <div class="input-group input-group-sm mb-3">
                                 <div class="input-group-prepend">
-                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Recherche</span>
                                 </div>
                                 <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
                             </div>
                             <p>
                                 <button type="button" class="btn btn-primary sort" data-sort="abr">
-                                    Sort
+                                    Trier
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="price">
-                                    Sort by Price
+                                    Trier par prix
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="karmatype">
-                                    Sort by Karma
+                                    Trier par Karma
                                 </button>
                             </p>
                             <table class="table events">
                                 <tr>
-                                    <th scope="col" class="sort" data-sort="abr">Name</th>
-                                    <th scope="col" class="sort" data-sort="price">Price</th>
+                                    <th scope="col" class="sort" data-sort="abr">Nom</th>
+                                    <th scope="col" class="sort" data-sort="price">Prix</th>
                                     <th scope="col" class="sort" data-sort="karmatype">Karma</th>
                                 </tr>
                                 <tbody class="list">
