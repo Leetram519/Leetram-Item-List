@@ -3,332 +3,332 @@
 	{
 		"abr": "tornado",
 		"price": 800,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "clearweather",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "rain",
 		"price": 350,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "vomitrain",
 		"price": 650,
-		"karmatype": "Neutral"
+		"karmatype": "Neutre"
 	},
 	{
 		"abr": "foggyrain",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "Neutre"
 	},
 	{
 		"abr": "rainythunderstorm",
 		"price": 250,
-		"karmatype": "Neutral"
+		"karmatype": "Neutre"
 	},
 	{
 		"abr": "drythunderstorm",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "snowgentle",
 		"price": 350,
-		"karmatype": "Neutral"
+		"karmatype": "Neutre"
 	},
 	{
 		"abr": "snowhard",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "fog",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "Neutre"
 	},
 	{
 		"abr": "heatwave",
 		"price": 750,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "flashstorm",
 		"price": 400,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "coldsnap",
 		"price": 800,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "solarflare",
 		"price": 500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "shortcircuit",
 		"price": 500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "toxicfallout",
 		"price": 6500,
-		"karmatype": "Doom"
+		"karmatype": "Apocalyptique"
 	},
 	{
 		"abr": "volcanicwinter",
 		"price": 3200,
-		"karmatype": "Doom"
+		"karmatype": "Apocalyptique"
 	},
 	{
 		"abr": "eclipse",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "aurora",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "blight",
 		"price": 700,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "refugeechased",
 		"price": 650,
-		"karmatype": "Neutral"
+		"karmatype": "Neutre"
 	},
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "transportpodcrash",
 		"price": 600,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "tradercaravan",
 		"price": 275,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "inspiration",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "meteor",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Neutre"
 	},
 	{
 		"abr": "maninblack",
 		"price": 350,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "madanimal",
 		"price": 200,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "psychicdrone",
 		"price": 400,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "psychicsoothe",
 		"price": 250,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "ambrosiasprout",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "wildman",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "travelergroup",
 		"price": 80,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "visitorgroup",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "party",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "alphabeavers",
 		"price": 600,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "shippartpoison",
 		"price": 1900,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "militaryaid",
 		"price": 700,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "predators",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "randomdisease",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "disease",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Mauvais"
 	},
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "pawn",
 		"price": 1500,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "gambleskill",
 		"price": 1500,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "trait",
 		"price": 3500,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "removetrait",
 		"price": 5500,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "genderswap",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Neutre"
 	},
 	{
 		"abr": "prisoner",
 		"price": 800,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "visitcolony",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	},
 	{
 		"abr": "berescued",
 		"price": 900,
-		"karmatype": "Good"
+		"karmatype": "Bon"
 	}
 	],
 	"total": 66

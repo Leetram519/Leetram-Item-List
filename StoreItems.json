@@ -687,7 +687,7 @@
 	{
 		"abr": "finemeal",
 		"price": 33,
-		"category": "Meals",
+		"category": "Nourriture",
 		"defname": "MealFine"
 	},
 	{
@@ -729,7 +729,7 @@
 	{
 		"abr": "flatscreentelevision",
 		"price": 1533,
-		"category": "Recreation",
+		"category": "Loisirs",
 		"defname": "FlatscreenTelevision"
 	},
 	{
@@ -903,19 +903,19 @@
 	{
 		"abr": "hoopstonering",
 		"price": 67,
-		"category": "Recreation",
+		"category": "Loisirs",
 		"defname": "HoopstoneRing"
 	},
 	{
 		"abr": "hops",
 		"price": 2,
-		"category": "Plant matter",
+		"category": "Matière végétale",
 		"defname": "RawHops"
 	},
 	{
 		"abr": "horseshoespin",
 		"price": 34,
-		"category": "Recreation",
+		"category": "Loisirs",
 		"defname": "HorseshoesPin"
 	},
 	{
@@ -975,31 +975,31 @@
 	{
 		"abr": "iedantigrainwarheadtrap",
 		"price": 2008,
-		"category": "Security",
+		"category": "Sécurité",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
 	{
 		"abr": "iedemptrap",
 		"price": 192,
-		"category": "Security",
+		"category": "Sécurité",
 		"defname": "TrapIED_EMP"
 	},
 	{
 		"abr": "iedfirefoamtrap",
 		"price": 192,
-		"category": "Security",
+		"category": "Sécurité",
 		"defname": "TrapIED_Firefoam"
 	},
 	{
 		"abr": "iedincendiarytrap",
 		"price": 192,
-		"category": "Security",
+		"category": "Sécurité",
 		"defname": "TrapIED_Incendiary"
 	},
 	{
 		"abr": "iedtrap",
 		"price": 192,
-		"category": "Security",
+		"category": "Sécurité",
 		"defname": "TrapIED_HighExplosive"
 	},
 	{
@@ -1113,7 +1113,7 @@
 	{
 		"abr": "lavishmeal",
 		"price": 67,
-		"category": "Meals",
+		"category": "Nourriture",
 		"defname": "MealLavish"
 	},
 	{
@@ -1227,7 +1227,7 @@
 	{
 		"abr": "megascreentelevision",
 		"price": 2475,
-		"category": "Recreation",
+		"category": "Loisirs",
 		"defname": "MegascreenTelevision"
 	},
 	{
@@ -1269,7 +1269,7 @@
 	{
 		"abr": "mini-turret",
 		"price": 508,
-		"category": "Security",
+		"category": "Sécurité",
 		"defname": "Turret_MiniTurret"
 	},
 	{
@@ -1293,7 +1293,7 @@
 	{
 		"abr": "mortar",
 		"price": 708,
-		"category": "Security",
+		"category": "Sécurité",
 		"defname": "Turret_Mortar"
 	},
 	{
@@ -1335,7 +1335,7 @@
 	{
 		"abr": "nutrientpastemeal",
 		"price": 17,
-		"category": "Meals",
+		"category": "Nourriture",
 		"defname": "MealNutrientPaste"
 	},
 	{
@@ -1371,7 +1371,7 @@
 	{
 		"abr": "packagedsurvivalmeal",
 		"price": 40,
-		"category": "Meals",
+		"category": "Nourriture",
 		"defname": "MealSurvivalPack"
 	},
 	{
@@ -1563,7 +1563,7 @@
 	{
 		"abr": "psychoidleaves",
 		"price": 3,
-		"category": "Plant matter",
+		"category": "Matière végétale",
 		"defname": "PsychoidLeaves"
 	},
 	{
@@ -1701,7 +1701,7 @@
 	{
 		"abr": "simplemeal",
 		"price": 25,
-		"category": "Meals",
+		"category": "Nourriture",
 		"defname": "MealSimple"
 	},
 	{
@@ -1731,7 +1731,7 @@
 	{
 		"abr": "smokeleafleaves",
 		"price": 3,
-		"category": "Plant matter",
+		"category": "Matière végétale",
 		"defname": "SmokeleafLeaves"
 	},
 	{
@@ -1767,7 +1767,7 @@
 	{
 		"abr": "spiketrap",
 		"price": 136,
-		"category": "Security",
+		"category": "Sécurité",
 		"defname": "TrapSpike"
 	},
 	{
@@ -1869,7 +1869,7 @@
 	{
 		"abr": "telescope",
 		"price": 583,
-		"category": "Recreation",
+		"category": "Loisirs",
 		"defname": "Telescope"
 	},
 	{
@@ -1959,7 +1959,7 @@
 	{
 		"abr": "tubetelevision",
 		"price": 525,
-		"category": "Recreation",
+		"category": "Loisirs",
 		"defname": "TubeTelevision"
 	},
 	{
